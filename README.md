@@ -1,2 +1,2 @@
 # MoneyMoneyJenkins
-MoneyMoney Example for Jenkins 
+MoneyMoney Example for Jenkins and Cobertura
